@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgRichEditSpellChecker/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/AgRichEditSpellChecker/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/AgRichEditSpellChecker/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgRichEditSpellChecker/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to use external dictionaries to check spelling in different languages
 
 
