@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/RichEditSpellCheckerSL/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/RichEditSpellCheckerSL/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/RichEditSpellCheckerSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditSpellCheckerSL/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/RichEditSpellCheckerSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditSpellCheckerSL/MainPage.xaml.vb))
 * [SpellCheckerHelper.cs](./CS/RichEditSpellCheckerSL/SpellCheckerHelper.cs) (VB: [SpellCheckerHelper.vb](./VB/RichEditSpellCheckerSL/SpellCheckerHelper.vb))
 <!-- default file list end -->
