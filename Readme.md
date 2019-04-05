@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/RichEditSpellCheckerSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditSpellCheckerSL/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RichEditSpellCheckerSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditSpellCheckerSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditSpellCheckerSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditSpellCheckerSL/MainPage.xaml.vb))
 * [SpellCheckerHelper.cs](./CS/RichEditSpellCheckerSL/SpellCheckerHelper.cs) (VB: [SpellCheckerHelper.vb](./VB/RichEditSpellCheckerSL/SpellCheckerHelper.vb))
 <!-- default file list end -->
 # How to use external dictionaries to check spelling in different languages
